@@ -1,0 +1,49 @@
+.page{
+  padding: 20px;
+  background-color: rgb(228, 60, 60);
+  /* text-align: center; */
+}
+.page input{
+  margin-left: 20px;
+  margin: 10px;
+  size: 20px;
+  border: 2px solid black;
+}
+.page label{
+  margin-left: 5px;
+  font-size: medium;
+}
+
+table{
+  border: 2px solid black;
+   border-collapse: collapse; 
+  margin-left:10px ;
+  font-size: 13px;
+  /* text-align: left; */
+}
+table thead {
+  background-color:rgb(102, 200, 245);
+}
+
+ table th {
+  padding: 10px;
+  padding-bottom: 20px;
+  text-align: left;
+  border:1px solid black;
+ 
+}
+table td {
+  padding-left:8px;
+  /* margin: 10px; */
+  text-align: left;
+  border-bottom:1px solid black;
+ 
+}
+table td button{
+  margin: 5px;
+}
+tbody tr:hover{
+  padding: 5px;
+  background-color: rgb(204, 231, 231);
+  border: 2px solid black;
+}
